@@ -1,0 +1,22 @@
+
+-mobile menu icon positioning when site is opened with iPhone
+
+-modify jQuery code so mobile menu opens ONLY when nav link is clicked... right now the mobile menu opens when ANY link is clicked (ex. main buttons open nav menu)
+
+- work on projects to add to portfolio
+
+
+
+
+Possible Additions:
+
+- Add back-to-top button (fixed in bottom left/right corner)
+
+- Add codepen underline hover effects to linked words for added style
+
+- Make Navbar visible when scrolling down
+
+
+Useful Tools:
+
+- Ghost Inspector
